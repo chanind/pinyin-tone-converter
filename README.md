@@ -1,5 +1,10 @@
 # Pinyin Tone Converter
 
+[![CircleCI](https://circleci.com/gh/chanind/pinyin-tone-converter/tree/master.svg?style=shield)](https://circleci.com/gh/chanind/pinyin-tone-converter/tree/master)
+[![Coverage Status](https://coveralls.io/repos/github/chanind/pinyin-tone-converter/badge.svg?branch=master)](https://coveralls.io/github/chanind/pinyin-tone-converter?branch=master)
+[![npm](https://badgen.net/npm/v/pinyin-tone-converter)](https://www.npmjs.com/package/pinyin-tone-converter)
+[![license](https://badgen.net/npm/license/pinyin-tone-converter)](https://opensource.org/licenses/MIT)
+
 A simple Javascript plugin to convert pinyin with numbers to tone marks.
 This plugin is based on the [Quizlet Pinyin Converter](https://github.com/quizlet/pinyin-converter)
 
