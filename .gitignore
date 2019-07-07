@@ -59,3 +59,13 @@ typings/
 
 # next.js build output
 .next
+
+# from typescript starter kit
+.DS_Store
+.vscode
+.idea
+dist
+compiled
+.awcache
+.rpt2_cache
+docs
