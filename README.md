@@ -45,8 +45,9 @@ Contributions are welcome! These steps will guide you through contributing to th
 - Fork the repo
 - Clone it and install dependencies
 
-  git clone https://github.com/chanind/pinyin-tone-converter
-  yarn install
+  `git clone https://github.com/chanind/pinyin-tone-converter`
+
+  `yarn install`
 
 Make and commit your changes. Make sure the commands yarn run build and yarn run test:prod are working.
 
